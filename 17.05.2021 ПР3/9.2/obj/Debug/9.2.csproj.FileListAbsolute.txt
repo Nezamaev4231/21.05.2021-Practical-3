@@ -1,0 +1,7 @@
+C:\Users\ы\source\repos\17.05.2021 ПР3\9.2\bin\Debug\9.2.exe.config
+C:\Users\ы\source\repos\17.05.2021 ПР3\9.2\bin\Debug\9.2.exe
+C:\Users\ы\source\repos\17.05.2021 ПР3\9.2\bin\Debug\9.2.pdb
+C:\Users\ы\source\repos\17.05.2021 ПР3\9.2\obj\Debug\9.2.csprojAssemblyReference.cache
+C:\Users\ы\source\repos\17.05.2021 ПР3\9.2\obj\Debug\9.2.csproj.CoreCompileInputs.cache
+C:\Users\ы\source\repos\17.05.2021 ПР3\9.2\obj\Debug\9.2.exe
+C:\Users\ы\source\repos\17.05.2021 ПР3\9.2\obj\Debug\9.2.pdb

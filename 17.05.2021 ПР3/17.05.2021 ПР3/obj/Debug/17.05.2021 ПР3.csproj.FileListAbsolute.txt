@@ -1,0 +1,7 @@
+C:\Users\ы\source\repos\17.05.2021 ПР3\17.05.2021 ПР3\bin\Debug\17.05.2021 ПР3.exe.config
+C:\Users\ы\source\repos\17.05.2021 ПР3\17.05.2021 ПР3\bin\Debug\17.05.2021 ПР3.exe
+C:\Users\ы\source\repos\17.05.2021 ПР3\17.05.2021 ПР3\bin\Debug\17.05.2021 ПР3.pdb
+C:\Users\ы\source\repos\17.05.2021 ПР3\17.05.2021 ПР3\obj\Debug\17.05.2021 ПР3.csprojAssemblyReference.cache
+C:\Users\ы\source\repos\17.05.2021 ПР3\17.05.2021 ПР3\obj\Debug\17.05.2021 ПР3.csproj.CoreCompileInputs.cache
+C:\Users\ы\source\repos\17.05.2021 ПР3\17.05.2021 ПР3\obj\Debug\17.05.2021 ПР3.exe
+C:\Users\ы\source\repos\17.05.2021 ПР3\17.05.2021 ПР3\obj\Debug\17.05.2021 ПР3.pdb
